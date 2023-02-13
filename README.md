@@ -13,13 +13,30 @@ I would love to take my first steps as a junior tester and gain my first commerc
 
 ## Skills
 
+Test documentation
+
+* can create test plan, test scenario, test cases
+* able to prepare comprehensive defect reports and provide detailed session reports
+
 Manual testing
+
+* can perform manual functional and usability testing of web applications
+* gained hands-on experience by testing applications created for educational purposes
 
 API testing
 
+* can write a request, pre-request script and tests in Postman
+* gained experience through manual testing of APIs created for educational purposes
+
 SQL databases
 
+* knows how to perform basic queries also using subqueries to the database in order to read data
+* knows how to operate on data in the database: add, update and delete them, how to combine data with each other
+
 Python basics
+
+* can test Python code by writing unit tests with the PyTest framework
+* knows how to use the Python Selenium module to perform web scraping, web testing and create website bots
 
 ## Tools used in testing
 
@@ -34,6 +51,14 @@ Python basics
 
 
 ## Courses
+
+[Praktyczny kurs testowania oprogramowania](https://www.udemy.com/courses/search/?src=ukw&q=Praktyczny+kurs+testowania+oprogramowania)
+
+[Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman/)
+
+[SQL dla początkujących - PostgreSQL](https://www.udemy.com/course/sql-dla-poczatkujacych-postgresql-z-podrecznikiem-pdf/?src=sac&kw=sql+dla+pocz%C4%85tkuj%C4%85cych)
+
+[Python 3 od Podstaw do Eksperta](https://www.udemy.com/course/python-od-podstaw-dla-poczatkujacych/)
 
 ## My test plan example
 
