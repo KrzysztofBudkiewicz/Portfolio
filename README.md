@@ -72,7 +72,7 @@ Python basics
 [Bugs reported for application Mr Buggy 7](https://tester-krzysztof.atlassian.net/jira/software/projects/MRBUG/boards/2)
 
 
-## Books I have read
+## Technical Books read
 
 * [Testowanie Oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 * [Python dla każdego. Podstawy programowania. Wydanie III](https://helion.pl/ksiazki/python-dla-kazdego-podstawy-programowania-wydanie-iii-michael-dawson,pytdk3.htm#format/e)
@@ -85,3 +85,10 @@ Python basics
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
 * [Start w IT - początkujący tester oprogramowania i programista](https://www.facebook.com/groups/czyitjestdlamnie/)
 * [QA Testers - job offers, oferty pracy, jobangebote, вакансії](https://www.facebook.com/groups/808752555920542)
+
+## Blogs read
+
+* [testowanie-oprogramowania.pl](https://testowanie-oprogramowania.pl/blog/)
+* [testerzy.pl/](https://testerzy.pl/)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
+
