@@ -52,16 +52,36 @@ Python basics
 
 ## Courses
 
-[Praktyczny kurs testowania oprogramowania](https://www.udemy.com/courses/search/?src=ukw&q=Praktyczny+kurs+testowania+oprogramowania)
+* [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/courses/search/?src=ukw&q=Praktyczny+kurs+testowania+oprogramowania)
 
-[Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman/)
+* [Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman/)
 
-[SQL dla początkujących - PostgreSQL](https://www.udemy.com/course/sql-dla-poczatkujacych-postgresql-z-podrecznikiem-pdf/?src=sac&kw=sql+dla+pocz%C4%85tkuj%C4%85cych)
+* [SQL dla początkujących - PostgreSQL](https://www.udemy.com/course/sql-dla-poczatkujacych-postgresql-z-podrecznikiem-pdf/?src=sac&kw=sql+dla+pocz%C4%85tkuj%C4%85cych)
 
-[Python 3 od Podstaw do Eksperta](https://www.udemy.com/course/python-od-podstaw-dla-poczatkujacych/)
+* [Python 3 od Podstaw do Eksperta](https://www.udemy.com/course/python-od-podstaw-dla-poczatkujacych/)
+
+## 
+
 
 ## My test plan example
 
-## My bug reports in Jira
+[Test plan for application Mr Buggy 7]()
 
-## 
+## Bug reports and work in Jira
+
+[Bugs reported for application Mr Buggy 7](https://tester-krzysztof.atlassian.net/jira/software/projects/MRBUG/boards/2)
+
+
+## Books I have read
+
+* [Testowanie Oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+* [Python dla każdego. Podstawy programowania. Wydanie III](https://helion.pl/ksiazki/python-dla-kazdego-podstawy-programowania-wydanie-iii-michael-dawson,pytdk3.htm#format/e)
+* [Python. Wprowadzenie. Wydanie IV](https://helion.pl/ksiazki/python-wprowadzenie-wydanie-iv-mark-lutz,pytho4.htm#format/e)
+* **"SQL dla początkujących PostgreSQL"** - R. Mobilo 2020
+
+## Groups for knowledge gathering
+
+* [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/testowanieoprogramowaniapraca/)
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
+* [Start w IT - początkujący tester oprogramowania i programista](https://www.facebook.com/groups/czyitjestdlamnie/)
+* [QA Testers - job offers, oferty pracy, jobangebote, вакансії](https://www.facebook.com/groups/808752555920542)
