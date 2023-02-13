@@ -53,11 +53,8 @@ I would love to take my first steps as a junior tester and gain my first commerc
 ## Courses
 
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/courses/search/?src=ukw&q=Praktyczny+kurs+testowania+oprogramowania)
-
 * [Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman/)
-
 * [SQL dla początkujących - PostgreSQL](https://www.udemy.com/course/sql-dla-poczatkujacych-postgresql-z-podrecznikiem-pdf/?src=sac&kw=sql+dla+pocz%C4%85tkuj%C4%85cych)
-
 * [Python 3 od Podstaw do Eksperta](https://www.udemy.com/course/python-od-podstaw-dla-poczatkujacych/)
 
 ## Technical Books read
@@ -77,17 +74,20 @@ I would love to take my first steps as a junior tester and gain my first commerc
 ## Blogs read
 
 * [testowanie-oprogramowania.pl](https://testowanie-oprogramowania.pl/blog/)
-* [testerzy.pl/](https://testerzy.pl/)
+* [testerzy.pl](https://testerzy.pl/)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
-
 
 ## My test plan example
 
-[Test plan for application Mr Buggy 7]()
+[Test plan for application Mr Buggy 7](https://drive.google.com/drive/u/1/folders/1YgEkqBS9XO6WoZjNcKAYlUDfnzLjXKcU?hl=pl)
 
 ## Bug reports and work in Jira
 
 [Bugs reported for application Mr Buggy 7](https://tester-krzysztof.atlassian.net/jira/software/projects/MRBUG/boards/2)
+
+## Automated API Testing with Postman
+
+[]()
 
 
 
