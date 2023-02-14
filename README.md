@@ -87,7 +87,9 @@ I would love to take my first steps as a junior tester and gain my first commerc
 
 ## Automated API Testing with Postman
 
-[]()
+[Automatic tests on the example of filters in Jira](https://www.postman.com/supply-geoscientist-47994328/workspace/testworkspace)
+
+## Selenium 
 
 
 
