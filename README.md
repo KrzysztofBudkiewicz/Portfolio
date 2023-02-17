@@ -85,6 +85,8 @@ I would love to take my first steps as a junior tester and gain commercial exper
 
 [Bugs reported for application Mr Buggy 7](https://tester-krzysztof.atlassian.net/jira/software/projects/MRBUG/boards/2)
 
+You must have a Jira account. If you can't open the content of the project - contact me. I'm sure I'll come up with a solution :)
+
 ## Automated API Testing with Postman
 
 [Automatic tests on the example of filters in Jira](https://www.postman.com/daiinar/workspace/testworkspace/documentation/25386831-e0993755-c63e-4669-9c7c-0f443d8e4559)
