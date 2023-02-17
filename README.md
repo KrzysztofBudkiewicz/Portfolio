@@ -9,7 +9,7 @@ I graduated from full-time studies at the Poznań University of Technology with 
 
 Recently, I started to be interested in software testing. I would like to deepen this knowledge and develop my technical skills. I am intensively learning techniques and tools for testing. I participate in online courses, webinars, read blogs, deepen my knowledge in private groups on social networks and test web applications dedicated to educational purposes. 
 
-I would love to take my first steps as a junior tester and gain my first commercial experience. In future I'm oriented for further development as Automation Tester.
+I would love to take my first steps as a junior tester and gain commercial experience. In future I'm oriented for further development as Automation Tester.
 
 ## Skills
 
@@ -99,7 +99,7 @@ I would love to take my first steps as a junior tester and gain my first commerc
 
 ## Selenium 
 
-[Automated Cookie Clicker Bot with Python and Selenium]()
+[Automated Cookie Clicker Bot with Python and Selenium](https://github.com/KrzysztofBudkiewicz/CookieClicker/blob/main/CookieClicker/CookieClicker.py)
 
 
 
