@@ -91,11 +91,11 @@ I would love to take my first steps as a junior tester and gain commercial exper
 
 ## Test scenario for Login Page
 
-[Test scenario on the example of a Facebook page](https://onedrive.live.com/edit.aspx?resid=DC5CAA866AA4D25!1619&cid=dc5caa866aa4d25&CT=1676628060228&OR=ItemsView)
+[Test scenario on the example of a Facebook page](https://1drv.ms/x/s!AiVNqmaoysUNjFO762iC-3kDvE82?e=yE7flT)
 
 ## Test cases for Login Page
 
-[Test cases on the example of a Facebook page](https://onedrive.live.com/edit.aspx?resid=DC5CAA866AA4D25!1620&cid=dc5caa866aa4d25&CT=1676628058546&OR=ItemsView)
+[Test cases on the example of a Facebook page](https://1drv.ms/x/s!AiVNqmaoysUNjFRaBlIUXRCF-7-t?e=08PZke)
 
 ## Selenium 
 
