@@ -89,6 +89,14 @@ I would love to take my first steps as a junior tester and gain my first commerc
 
 [Automatic tests on the example of filters in Jira](https://www.postman.com/supply-geoscientist-47994328/workspace/testworkspace)
 
+## Test scenario for Login Page
+
+[Test scenario on the example of a Facebook page](https://onedrive.live.com/edit.aspx?resid=DC5CAA866AA4D25!1619&cid=dc5caa866aa4d25&CT=1676628060228&OR=ItemsView)
+
+## Test cases for Login Page
+
+[Test cases on the example of a Facebook page](https://onedrive.live.com/edit.aspx?resid=DC5CAA866AA4D25!1620&cid=dc5caa866aa4d25&CT=1676628058546&OR=ItemsView)
+
 ## Selenium 
 
 [Automated Cookie Clicker Bot with Python and Selenium]()
