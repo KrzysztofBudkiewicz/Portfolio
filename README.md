@@ -1,6 +1,3 @@
-# Portfolio
-This is a portfolio of a junior software tester
-
 ## About me
 
 I am an organized, responsible and thorough person. I pay attention to the smallest details. I also have highly developed analytical skills due to my previous position.
