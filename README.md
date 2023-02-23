@@ -4,7 +4,7 @@ I am an organized, responsible and thorough person. I pay attention to the small
 
 I graduated from full-time studies at the Poznań University of Technology with a master's degree in mechanics. I was responsible for the quality of technical documentation based on compliance with international and internal standards for the automotive industry.
 
-Recently, I started to be interested in software testing. I would like to deepen this knowledge and develop my technical skills. I am intensively learning techniques and tools for testing. I participate in online courses, webinars, read blogs, deepen my knowledge in private groups on social networks and test web applications dedicated to educational purposes. 
+Recently, I started to be interested in testing and working with SQL databases. I would like to deepen this knowledge and develop my technical skills. I am intensively learning new techniques and tools. I participate in online courses, webinars, deepen my knowledge in private groups on social networks and work with applications and databases dedicated to educational purposes. 
 
 I would love to take my first steps in IT industry and gain commercial experience. In future I'm oriented for further development as Automation Tester or Data Engineer.
 
@@ -61,19 +61,6 @@ I would love to take my first steps in IT industry and gain commercial experienc
 * [Python dla każdego. Podstawy programowania. Wydanie III](https://helion.pl/ksiazki/python-dla-kazdego-podstawy-programowania-wydanie-iii-michael-dawson,pytdk3.htm#format/e)
 * [Python. Wprowadzenie. Wydanie IV](https://helion.pl/ksiazki/python-wprowadzenie-wydanie-iv-mark-lutz,pytho4.htm#format/e)
 
-## Groups for knowledge gathering
-
-* [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/testowanieoprogramowaniapraca/)
-* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
-* [Start w IT - początkujący tester oprogramowania i programista](https://www.facebook.com/groups/czyitjestdlamnie/)
-* [QA Testers - job offers, oferty pracy, jobangebote, вакансії](https://www.facebook.com/groups/808752555920542)
-
-## Blogs read
-
-* [testowanie-oprogramowania.pl](https://testowanie-oprogramowania.pl/blog/)
-* [testerzy.pl](https://testerzy.pl/)
-* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
-
 ## My test plan example
 
 [Test plan for application Mr Buggy 7](https://drive.google.com/drive/u/1/folders/1YgEkqBS9XO6WoZjNcKAYlUDfnzLjXKcU?hl=pl)
@@ -99,6 +86,9 @@ You must have a Jira account. If you can't open the content of the project - con
 ## Selenium 
 
 [Automated Cookie Clicker Bot with Python and Selenium](https://github.com/KrzysztofBudkiewicz/CookieClicker/blob/main/CookieClicker/CookieClicker.py)
+
+## SQL (in progress :))
+
 
 
 
