@@ -61,15 +61,9 @@ I would love to take my first steps in IT industry and gain commercial experienc
 * [Python dla każdego. Podstawy programowania. Wydanie III](https://helion.pl/ksiazki/python-dla-kazdego-podstawy-programowania-wydanie-iii-michael-dawson,pytdk3.htm#format/e)
 * [Python. Wprowadzenie. Wydanie IV](https://helion.pl/ksiazki/python-wprowadzenie-wydanie-iv-mark-lutz,pytho4.htm#format/e)
 
-## My test plan example
+## Selenium 
 
-[Test plan for application Mr Buggy 7](https://drive.google.com/drive/u/1/folders/1YgEkqBS9XO6WoZjNcKAYlUDfnzLjXKcU?hl=pl)
-
-## Bug reports and work in Jira
-
-[Bugs reported for application Mr Buggy 7](https://tester-krzysztof.atlassian.net/jira/software/projects/MRBUG/boards/2)
-
-You must have a Jira account. If you can't open the content of the project - contact me. I'm sure I'll come up with a solution :)
+[Automated Cookie Clicker Bot with Python and Selenium](https://github.com/KrzysztofBudkiewicz/CookieClicker/blob/main/CookieClicker/CookieClicker.py)
 
 ## Automated API Testing with Postman
 
@@ -83,9 +77,16 @@ You must have a Jira account. If you can't open the content of the project - con
 
 [Test cases on the example of a Facebook page](https://1drv.ms/x/s!AiVNqmaoysUNjFRaBlIUXRCF-7-t?e=08PZke)
 
-## Selenium 
+## My test plan example
 
-[Automated Cookie Clicker Bot with Python and Selenium](https://github.com/KrzysztofBudkiewicz/CookieClicker/blob/main/CookieClicker/CookieClicker.py)
+[Test plan for application Mr Buggy 7](https://drive.google.com/drive/u/1/folders/1YgEkqBS9XO6WoZjNcKAYlUDfnzLjXKcU?hl=pl)
+
+## Bug reports and work in Jira
+
+[Bugs reported for application Mr Buggy 7](https://tester-krzysztof.atlassian.net/jira/software/projects/MRBUG/boards/2)
+
+You must have a Jira account. If you can't open the content of the project - contact me. I'm sure I'll come up with a solution :)
+
 
 ## SQL (in progress :))
 
