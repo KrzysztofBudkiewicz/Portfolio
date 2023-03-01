@@ -54,13 +54,6 @@ I would love to take my first steps in IT industry and gain commercial experienc
 * [SQL dla początkujących - PostgreSQL](https://www.udemy.com/course/sql-dla-poczatkujacych-postgresql-z-podrecznikiem-pdf/?src=sac&kw=sql+dla+pocz%C4%85tkuj%C4%85cych)
 * [Python 3 od Podstaw do Eksperta](https://www.udemy.com/course/python-od-podstaw-dla-poczatkujacych/)
 
-## Technical Books read
-
-* [Testowanie Oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
-* [Zawód tester. Od decyzji do zdobycia doświadczenia](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html)
-* [Python dla każdego. Podstawy programowania. Wydanie III](https://helion.pl/ksiazki/python-dla-kazdego-podstawy-programowania-wydanie-iii-michael-dawson,pytdk3.htm#format/e)
-* [Python. Wprowadzenie. Wydanie IV](https://helion.pl/ksiazki/python-wprowadzenie-wydanie-iv-mark-lutz,pytho4.htm#format/e)
-
 ## Selenium 
 
 [Automated Cookie Clicker Bot with Python and Selenium](https://github.com/KrzysztofBudkiewicz/CookieClicker/blob/main/CookieClicker/CookieClicker.py)
@@ -86,7 +79,6 @@ I would love to take my first steps in IT industry and gain commercial experienc
 [Bugs reported for application Mr Buggy 7](https://tester-krzysztof.atlassian.net/jira/software/projects/MRBUG/boards/2)
 
 You must have a Jira account. If you can't open the content of the project - contact me. I'm sure I'll come up with a solution :)
-
 
 ## SQL (in progress :))
 
