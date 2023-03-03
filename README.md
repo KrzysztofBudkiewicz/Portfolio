@@ -1,8 +1,8 @@
 ## About me
 
-I am an organized, responsible and thorough person. I pay attention to the smallest details. I also have highly developed analytical skills due to my previous position.
+Engineer with 5 years of experience in the automotive industry. I graduated from full-time studies at the Poznań University of Technology with a master's degree in mechanics. In my job, I am responsible for finding bugs, errors and irregularities in the technical documentation. I am responsible for creating tasks for constructors based on the client's wishes and then I check their compliance in technical terms.
 
-I graduated from full-time studies at the Poznań University of Technology with a master's degree in mechanics. In my job, I am responsible for finding bugs, errors and irregularities in the technical documentation. I also verify the correctness of the created design changes based on the client's special wishes.
+I am an organized, responsible and thorough person. I pay attention to the smallest details. I also have highly developed analytical skills due to the nature of my work.
 
 Recently, I started to be interested in software testing and working with SQL databases. I would like to deepen this knowledge and develop my technical skills. I am intensively learning new techniques and tools. I participate in online courses, webinars, deepen my knowledge in private groups on social networks and work with applications and databases dedicated to educational purposes. 
 
