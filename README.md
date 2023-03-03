@@ -55,7 +55,9 @@ I would love to take my first steps in IT industry and gain commercial experienc
 * [Python 3 od Podstaw do Eksperta](https://www.udemy.com/course/python-od-podstaw-dla-poczatkujacych/)
 
 ## Selenium 
-
+[Excel Sheet](https://docs.google.com/spreadsheets/d/1T40OdusWLHSfGfBUVxEigwxPi8IL5Xp7/edit?usp=sharing&ouid=107660815426328709421&rtpof=true&sd=true)
+[Email Screen](https://drive.google.com/file/d/1A-rZ6GdHItVhLDrRSxryI65-dYyM8ERy/view?usp=sharing)
+[Excel Screen](https://drive.google.com/file/d/14Ygogf3-LqOC-SIkwGGjXH8XQE2W2mLZ/view?usp=sharing)
 [Automated Cookie Clicker Bot with Python and Selenium](https://github.com/KrzysztofBudkiewicz/CookieClicker/blob/main/CookieClicker/CookieClicker.py)
 
 ## Automated API Testing with Postman
