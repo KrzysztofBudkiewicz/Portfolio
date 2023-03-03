@@ -86,8 +86,12 @@ I would love to take my first steps in IT industry and gain commercial experienc
 ## Bug reports and work in Jira
 
 [Bugs reported for application Mr Buggy 7](https://tester-krzysztof.atlassian.net/jira/software/projects/MRBUG/boards/2)
+* [Bug-16 Description](https://drive.google.com/file/d/16ZPpj4obfI-7ps-tus9zMoNQWVpGJOcP/view?usp=sharing)
+* [Bug-16 Attachment](https://drive.google.com/file/d/1p2M1YdQVk0xIoy2uaFFF2mw6CTyZdQb7/view?usp=sharing)
+* [Bug-18 Description](https://drive.google.com/file/d/1-neNAODcAC1e-YARDxVniAI9Ja1y833f/view?usp=sharing)
+* [Bug-18 Attachment-1](https://drive.google.com/file/d/1bWRWI6SyC-KDMIpE-peQNm0XGFZ3W2xG/view?usp=sharing)
+* [Bug-18 Attachment-2](https://drive.google.com/file/d/1p3Ne9JDj-9xBkfKGCU-jvloiT3K9W6Ii/view?usp=sharing)
 
-You must have a Jira account. If you can't open the content of the project - contact me. I'm sure I'll come up with a solution :)
 
 ## SQL (in progress :))
 
