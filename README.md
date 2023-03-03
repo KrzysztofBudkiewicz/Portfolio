@@ -65,11 +65,12 @@ I would love to take my first steps in IT industry and gain commercial experienc
 
 ## Automated API Testing with Postman
 
-* [Example 1](https://drive.google.com/file/d/1svH-zjk0emxiIvL1FABLjxYWvDGQNYw7/view?usp=sharing)
-* [Example 2](https://drive.google.com/file/d/1Znk9c1HphTCxpnR-fM7YJA6IaU5wvVcZ/view?usp=sharing)
-* [Example 3](https://drive.google.com/file/d/1eMUBILSWPXNKlmhqFUv3uQdQ_PjtbRvn/view?usp=sharing)
-* [Example 4](https://drive.google.com/file/d/1CBoXDLeNBmtM_i7Ai8WZy0AHbDSUNBmx/view?usp=sharing)
-* [Example 5](https://drive.google.com/file/d/14IntR2FOKtP3iD0yqr6NourVX7eXXeJU/view?usp=sharing)
+* [POST - Create filter to delete - Body](https://drive.google.com/file/d/1svH-zjk0emxiIvL1FABLjxYWvDGQNYw7/view?usp=sharing)
+* [POST - Create filter to delete - Pre-request Script](https://drive.google.com/file/d/1Znk9c1HphTCxpnR-fM7YJA6IaU5wvVcZ/view?usp=sharing)
+* [POST - Create filter to delete - Tests](https://drive.google.com/file/d/1eMUBILSWPXNKlmhqFUv3uQdQ_PjtbRvn/view?usp=sharing)
+* [Run colletion](https://drive.google.com/file/d/1CBoXDLeNBmtM_i7Ai8WZy0AHbDSUNBmx/view?usp=sharing)
+* [Run results](https://drive.google.com/file/d/14IntR2FOKtP3iD0yqr6NourVX7eXXeJU/view?usp=sharing)
+
 
 ## Test scenario for Login Page
 
