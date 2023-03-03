@@ -56,7 +56,7 @@ I would love to take my first steps in IT industry and gain commercial experienc
 
 ## Selenium 
 
-1. [Searching for the cheapest flight on Booking.com for specific data + export data to Excel and send them by E-mail](https://github.com/KrzysztofBudkiewicz/Booking-Cheapest-Flight) - The script is still being improved and updated :)
+1. [Searching for the cheapest flight on Booking.com for specific data + export data to Excel and send them by E-mail](https://github.com/KrzysztofBudkiewicz/Booking-Cheapest-Flight) - Script is still improving and updating :)
 * [Excel Sheet](https://docs.google.com/spreadsheets/d/1T40OdusWLHSfGfBUVxEigwxPi8IL5Xp7/edit?usp=sharing&ouid=107660815426328709421&rtpof=true&sd=true)
 * [Excel Screen](https://drive.google.com/file/d/14Ygogf3-LqOC-SIkwGGjXH8XQE2W2mLZ/view?usp=sharing)
 * [E-mail Screen](https://drive.google.com/file/d/1A-rZ6GdHItVhLDrRSxryI65-dYyM8ERy/view?usp=sharing)
