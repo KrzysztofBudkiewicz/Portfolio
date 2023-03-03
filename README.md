@@ -56,7 +56,7 @@ I would love to take my first steps in IT industry and gain commercial experienc
 
 ## Selenium 
 
-1. [Searching for the cheapest flight on Booking.com for specific data + export data to Excel and send them by E-mail](https://github.com/KrzysztofBudkiewicz/Booking-Cheapest-Flight)
+1. [Searching for the cheapest flight on Booking.com for specific data + export data to Excel and send them by E-mail](https://github.com/KrzysztofBudkiewicz/Booking-Cheapest-Flight) 
 * [Excel Sheet](https://docs.google.com/spreadsheets/d/1T40OdusWLHSfGfBUVxEigwxPi8IL5Xp7/edit?usp=sharing&ouid=107660815426328709421&rtpof=true&sd=true)
 * [Excel Screen](https://drive.google.com/file/d/14Ygogf3-LqOC-SIkwGGjXH8XQE2W2mLZ/view?usp=sharing)
 * [E-mail Screen](https://drive.google.com/file/d/1A-rZ6GdHItVhLDrRSxryI65-dYyM8ERy/view?usp=sharing)
@@ -71,6 +71,18 @@ I would love to take my first steps in IT industry and gain commercial experienc
 * [Run colletion](https://drive.google.com/file/d/1CBoXDLeNBmtM_i7Ai8WZy0AHbDSUNBmx/view?usp=sharing)
 * [Run results](https://drive.google.com/file/d/14IntR2FOKtP3iD0yqr6NourVX7eXXeJU/view?usp=sharing)
 
+## Bug reports and work in Jira
+
+[Bugs reported for application Mr Buggy 7](https://tester-krzysztof.atlassian.net/jira/software/projects/MRBUG/boards/2)
+* [Bug-16 Description](https://drive.google.com/file/d/16ZPpj4obfI-7ps-tus9zMoNQWVpGJOcP/view?usp=sharing)
+* [Bug-16 Attachment](https://drive.google.com/file/d/1p2M1YdQVk0xIoy2uaFFF2mw6CTyZdQb7/view?usp=sharing)
+* [Bug-18 Description](https://drive.google.com/file/d/1-neNAODcAC1e-YARDxVniAI9Ja1y833f/view?usp=sharing)
+* [Bug-18 Attachment-1](https://drive.google.com/file/d/1bWRWI6SyC-KDMIpE-peQNm0XGFZ3W2xG/view?usp=sharing)
+* [Bug-18 Attachment-2](https://drive.google.com/file/d/1p3Ne9JDj-9xBkfKGCU-jvloiT3K9W6Ii/view?usp=sharing)
+* [Backlog](https://drive.google.com/file/d/1VAWmmK60UW5up410RTXn7GOQ7oNpgrFT/view?usp=sharing)
+* [Filter for Bugs](https://drive.google.com/file/d/1K0sL93IO259RoS_557Y3AjVv23U-Z6xa/view?usp=sharing)
+* [Sprint](https://drive.google.com/file/d/1ZnVNzcyQeXDXzX5_pnu7qIiMkDYFXbQU/view?usp=sharing)
+* [Filters created by Postman](https://drive.google.com/file/d/1t_NmGLQXiKiiySJlzErbZ6OcNOKTFh_k/view?usp=sharing)
 
 ## Test scenario for Login Page
 
@@ -83,16 +95,6 @@ I would love to take my first steps in IT industry and gain commercial experienc
 ## My test plan example
 
 [Test plan for application Mr Buggy 7](https://drive.google.com/drive/u/1/folders/1YgEkqBS9XO6WoZjNcKAYlUDfnzLjXKcU?hl=pl)
-
-## Bug reports and work in Jira
-
-[Bugs reported for application Mr Buggy 7](https://tester-krzysztof.atlassian.net/jira/software/projects/MRBUG/boards/2)
-* [Bug-16 Description](https://drive.google.com/file/d/16ZPpj4obfI-7ps-tus9zMoNQWVpGJOcP/view?usp=sharing)
-* [Bug-16 Attachment](https://drive.google.com/file/d/1p2M1YdQVk0xIoy2uaFFF2mw6CTyZdQb7/view?usp=sharing)
-* [Bug-18 Description](https://drive.google.com/file/d/1-neNAODcAC1e-YARDxVniAI9Ja1y833f/view?usp=sharing)
-* [Bug-18 Attachment-1](https://drive.google.com/file/d/1bWRWI6SyC-KDMIpE-peQNm0XGFZ3W2xG/view?usp=sharing)
-* [Bug-18 Attachment-2](https://drive.google.com/file/d/1p3Ne9JDj-9xBkfKGCU-jvloiT3K9W6Ii/view?usp=sharing)
-
 
 ## SQL (in progress :))
 
