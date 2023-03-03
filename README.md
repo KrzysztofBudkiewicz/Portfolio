@@ -66,6 +66,11 @@ I would love to take my first steps in IT industry and gain commercial experienc
 ## Automated API Testing with Postman
 
 [Automatic tests on the example of filters in Jira](https://www.postman.com/daiinar/workspace/testworkspace/documentation/25386831-e0993755-c63e-4669-9c7c-0f443d8e4559)
+* [Example screen](
+* [Example screen](
+* [Example screen](
+* [Example screen](
+* [Example screen](
 
 ## Test scenario for Login Page
 
