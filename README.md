@@ -1,6 +1,6 @@
 ## About me
 
-Engineer with 5 years of experience in the automotive industry. I graduated from full-time studies at the Poznań University of Technology with a master's degree in mechanics. In my job, I am responsible for finding bugs, errors and irregularities in the technical documentation. I am responsible for creating tasks for constructors based on the client's wishes and then I check their compliance in technical terms.
+Engineer with 5 years of experience in the automotive industry. I graduated from full-time studies at the Poznań University of Technology with a master's degree in mechanics. In my job, I try to find any bugs, errors and irregularities in the technical documentation. I am also responsible for creating tasks for constructors based on the client's wishes and then I check their compliance in technical terms.
 
 I am an organized, responsible and thorough person. I pay attention to the smallest details. I also have highly developed analytical skills due to the nature of my work.
 
