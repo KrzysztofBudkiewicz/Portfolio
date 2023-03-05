@@ -40,7 +40,7 @@ I would love to take my first steps in IT industry and gain commercial experienc
 ## Tools used in testing
 
 * Postman
-* Dev Tools
+* DevTools
 * Python
 * Selenium
 * SQL
@@ -51,7 +51,7 @@ I would love to take my first steps in IT industry and gain commercial experienc
 
 ## Courses
 
-* [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/courses/search/?src=ukw&q=Praktyczny+kurs+testowania+oprogramowania)
+* [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
 * [Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman/)
 * [SQL dla początkujących - PostgreSQL](https://www.udemy.com/course/sql-dla-poczatkujacych-postgresql-z-podrecznikiem-pdf/?src=sac&kw=sql+dla+pocz%C4%85tkuj%C4%85cych)
 * [Python 3 od Podstaw do Eksperta](https://www.udemy.com/course/python-od-podstaw-dla-poczatkujacych/)
