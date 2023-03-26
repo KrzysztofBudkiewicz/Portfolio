@@ -8,7 +8,6 @@ I am an organized, responsible and thorough person. I pay attention to the small
 
 Recently, I started to be interested in software testing and working with SQL databases. I would like to deepen this knowledge and develop my technical skills. I am intensively learning new techniques and tools. I participate in online courses, webinars, deepen my knowledge in private groups on social networks and work with applications and databases dedicated to educational purposes. 
 
-I would love to take my first steps in IT industry and gain commercial experience. In future I'm oriented for further development as Automation Tester or Data Engineer.
 
 ## Skills
 
